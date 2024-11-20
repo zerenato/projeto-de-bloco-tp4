@@ -1,0 +1,10 @@
+[
+    {
+        "nome_departamento":"Diretoria",
+        "media_salarios":70200.0
+    },
+    {
+        "nome_departamento":"Marketing",
+        "media_salarios":7500.0
+    }
+]

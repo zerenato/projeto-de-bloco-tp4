@@ -1,0 +1,10 @@
+[
+    {
+        "nome_departamento":"Diretoria",
+        "custo_total":250000
+    },
+    {
+        "nome_departamento":"Marketing",
+        "custo_total":87000
+    }
+]
